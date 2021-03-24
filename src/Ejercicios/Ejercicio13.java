@@ -8,11 +8,7 @@ public class Ejercicio13 {
 		
 		System.out.println("Ingrese el primer número");
 		num1 = Integer.parseInt(input.nextLine());
-		
-		System.out.println("Ingrese el segundo número");
 		num2 = Integer.parseInt(input.nextLine());
-		
-		System.out.println("Ingrese el tercer número");
 		num3 = Integer.parseInt(input.nextLine());
 		
 		numMayor = num2;

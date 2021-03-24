@@ -6,10 +6,8 @@ public class Ejercicio12 {
 		
 		int num1, num2;
 		
-		System.out.println("Ingrese el primer número");
+		System.out.println("Ingrese dos números");
 		num1 = Integer.parseInt(input.nextLine());
-		
-		System.out.println("Ingrese el segundo número");
 		num2 = Integer.parseInt(input.nextLine());
 		
 		if (num1>num2) {
