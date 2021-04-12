@@ -1,7 +1,7 @@
 package Ejercicios;
 
 import java.util.Scanner;
-public class Ejercicio15opt2 {
+public class Ejercicio14opt2 {
 	
 	public static final double ALTURA_MINIMA = 1.5;
 	public static final double EDAD_MINIMA = 7;
@@ -44,8 +44,7 @@ public class Ejercicio15opt2 {
 		}
 		
 		System.out.println("Hasta la próxima");
-					
-		
-
+		input.close();
 	}
+	
 }
